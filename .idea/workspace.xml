@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc81b474-707c-4cf9-ba23-7872d93d3390" name="Default Changelist" comment="" />
+    <list default="true" id="dc81b474-707c-4cf9-ba23-7872d93d3390" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/config/ErroDeFormularioDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/config/ErroDeValidacaoHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/controller/TopicosController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/controller/TopicosController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/controller/form/TopicoForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/controller/form/TopicoForm.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,11 +36,54 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.alura.forum.config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ForumApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.forum.ForumApplication" />
+      <module name="forum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.forum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ForumApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dc81b474-707c-4cf9-ba23-7872d93d3390" name="Default Changelist" comment="" />
       <created>1620683902816</created>
-   
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620683902816</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
