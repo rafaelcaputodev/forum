@@ -46,5 +46,4 @@ public class TopicoForm {
 		Curso curso = cursoRepository.findByNome(nomeCurso);
 		return new Topico(titulo, mensagem, curso);
 	}
-
 }
