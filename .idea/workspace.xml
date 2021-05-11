@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc81b474-707c-4cf9-ba23-7872d93d3390" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/config/ErroDeFormularioDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/config/ErroDeValidacaoHandler.java" afterDir="false" />
+    <list default="true" id="dc81b474-707c-4cf9-ba23-7872d93d3390" name="Default Changelist" comment="validation treatment">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/controller/dto/DetalhesDoTopicoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/controller/dto/RespostaDTO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/controller/TopicosController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/controller/TopicosController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/controller/form/TopicoForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/controller/form/TopicoForm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +39,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.alura.forum.controller.dto" />
       <recent name="br.com.alura.forum.config" />
     </key>
   </component>
@@ -73,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1620683902816</updated>
     </task>
+    <task id="LOCAL-00001" summary="validation treatment">
+      <created>1620695164825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620695164825</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="validation treatment" />
+    <option name="LAST_COMMIT_MESSAGE" value="validation treatment" />
   </component>
 </project>
