@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc81b474-707c-4cf9-ba23-7872d93d3390" name="Default Changelist" comment="pagination improvements">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_6_RELEASE.xml" afterDir="false" />
+    <list default="true" id="dc81b474-707c-4cf9-ba23-7872d93d3390" name="Default Changelist" comment="update pagination, implements cache">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/forum.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/controller/TopicosController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/forum/controller/TopicosController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622052891619</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update pagination, implements cache">
+      <created>1623868915261</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623868915261</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +142,7 @@
     <MESSAGE value="ending crud" />
     <MESSAGE value="pagination" />
     <MESSAGE value="pagination improvements" />
-    <option name="LAST_COMMIT_MESSAGE" value="pagination improvements" />
+    <MESSAGE value="update pagination, implements cache" />
+    <option name="LAST_COMMIT_MESSAGE" value="update pagination, implements cache" />
   </component>
 </project>
